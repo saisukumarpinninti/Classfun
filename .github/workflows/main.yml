@@ -29,6 +29,6 @@ jobs:
         uses: Azure/webapps-deploy@v2
         with:
         # Name of the Azure Web App
-          app-name: navi-mumbai
+          app-name: Class-Fun
           publish-profile: ${{ secrets.PUBLISHPROFILE }}
 
